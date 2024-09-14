@@ -22,7 +22,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=SrLicht&theme=midnight-purple&border_radius=10&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=SrLicht&theme=midnight-purple&border_radius=10&date_format=j%2Fn%5B%2FY%5D" alt="streak stats"/>
   <img width=365 src="https://github-readme-stats-salesp07.vercel.app/api?username=srlicht&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srlicht&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
